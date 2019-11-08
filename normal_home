@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-08T14:17:01.521Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="sqqpOFfE23nqW0Jr8_I7" version="12.2.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-08T16:12:08.889Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="bQPCnUBVb1Hs100jv1e3" version="12.2.3" type="github" pages="1">
   <diagram id="tqnMTqC5PZhek-2d1RJy" name="Page-1">
     <mxGraphModel dx="1422" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -69,9 +69,6 @@
             <mxPoint x="460" y="662" as="sourcePoint"/>
             <mxPoint x="680" y="542" as="targetPoint"/>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="cnj-LqtJExAkbFMUQVxq-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/eightyshades/512/28_Sound-128.png" vertex="1" parent="1">
-          <mxGeometry x="277.5" y="74.5" width="23" height="23" as="geometry"/>
         </mxCell>
         <mxCell id="cnj-LqtJExAkbFMUQVxq-51" value="" style="endArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="cnj-LqtJExAkbFMUQVxq-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
