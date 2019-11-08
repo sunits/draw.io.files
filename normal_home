@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-08T14:04:51.096Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="92dQtnsO8CJdwhDvVD2H" version="12.2.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-08T14:12:58.172Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="88T-mPbzpgBsX-9ssYkC" version="12.2.3" type="github" pages="1">
   <diagram id="tqnMTqC5PZhek-2d1RJy" name="Page-1">
-    <mxGraphModel dx="191" dy="119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -31,7 +31,7 @@
         <mxCell id="cnj-LqtJExAkbFMUQVxq-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/business-finance-vol-12-2/512/23-128.png;rotation=28;" vertex="1" parent="1">
           <mxGeometry x="940" y="112" width="128" height="128" as="geometry"/>
         </mxCell>
-        <mxCell id="cnj-LqtJExAkbFMUQVxq-19" value="&lt;div&gt;&lt;b&gt;Vocadom,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;The Personal Assistant&lt;/b&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.cylinder;fillColor=#10739E;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="cnj-LqtJExAkbFMUQVxq-19" value="&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Vocadom,&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;The Personal Assistant&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.cylinder;fillColor=#10739E;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="328" width="60" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="cnj-LqtJExAkbFMUQVxq-23" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=#000000;direction=north;rotation=180;" vertex="1" parent="1">
@@ -46,8 +46,8 @@
         <mxCell id="cnj-LqtJExAkbFMUQVxq-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/toilet/520/12-128.png" vertex="1" parent="1">
           <mxGeometry x="252.5" y="44" width="73" height="73" as="geometry"/>
         </mxCell>
-        <mxCell id="cnj-LqtJExAkbFMUQVxq-41" value="Vocadom, What is the answer to life, universe and everything?" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;rotation=-35;" vertex="1" parent="1">
-          <mxGeometry x="370" y="442" width="350" height="20" as="geometry"/>
+        <mxCell id="cnj-LqtJExAkbFMUQVxq-41" value="&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Vocadom, What is the answer to life,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt; universe and everything?&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;rotation=-35;" vertex="1" parent="1">
+          <mxGeometry x="364.5" y="445.5" width="310" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="cnj-LqtJExAkbFMUQVxq-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/multimedia-75/512/multimedia-15-128.png" vertex="1" parent="1">
           <mxGeometry x="333.5" y="423" width="29" height="29" as="geometry"/>
